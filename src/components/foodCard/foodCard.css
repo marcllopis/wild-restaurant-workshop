@@ -1,0 +1,12 @@
+.food-container{
+  display: flex;
+  width: 60%;
+  height: 200px;
+  background-color: darkslategrey;
+  color: white;
+  font-weight: bold;
+  padding: 15px;
+  margin: 20px;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
